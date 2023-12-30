@@ -1,0 +1,75 @@
+
+
+#EXTM3U
+#EXTINF:1	
+https://ev-h.phncdn.com/hls/videos/202209/01/414790851/,1080P_4000K,720P_4000K,480P_2000K,240P_1000K,_414790851.mp4.urlset/index-f1-v1-a1.m3u8?validfrom=1703968482&validto=1703975682&ipa=77.54.27.119&hdl=-1&hash=SBeOxTB3AIFKHSkkhl20U5jZMvs%3D
+#EXTINF:2
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
+#EXTINF:3
+https://rr3---sn-8vq54vox2u-v2vs.googlevideo.com/videoplayback?expire=1704001059&ei=o42QZaypDY3Mp-oPqeKd2AE&ip=77.54.27.119&id=c0641cf110b3f1af&itag=22&source=youtube&requiressl=yes&xpc=Eghovf3BOnoBAQ==&mh=wn&mm=31&mn=sn-8vq54vox2u-v2vs&ms=au&mv=m&mvi=3&pl=20&susc=gvp&acao=yes&ctier=L&mime=video/mp4&vprv=1&dur=33.181&lmt=1703590193202351&mt=1703971750&cpn=Lb2k7O1gRnFS07s1&txp=5532434&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,acao,ctier,mime,vprv,dur,lmt&sig=AJfQdSswRQIgDm9LD6kzEn7OIzrBDO4gLQpsqY4m_ZsIB8qtvUpJNpICIQCGkd73O15QSco-9wE0EIy8zqLTM0eZJO3JmkGoaVDN7Q==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AAO5W4owRQIgEol6Kwm52RGQEP7akRVBZiTzkTpN3pOSt8jXHCY-_CkCIQDVgOKXUnPdjVxyzgBFWpV2FnTImE0c6E4Fq9XzPXPf6A==
+#EXTINF:4
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:5
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Benfica_TV_1_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
+#EXTINF:6
+https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist1080p.m3u8
+#EXTINF:1,Goiânia - Panorâmica	
+https://5a7d54e35f9d2.streamlock.net/aquariuscenter2/aquariuscenter2.stream/chunklist_w629649629.m3u8
+#EXTINF:2,Goiânia - Av. Jamel Cecílio Ao
+https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w859398705.m3u8
+#EXTINF:3,Las Vegas: Aerie View Live
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1703994871/ei/l5GQZeyuGLy7vdIPpquLuAg/ip/77.54.27.119/id/_tLjNNPdWlQ.1/itag/312/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr3---sn-8vq54vox2u-v2vs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/initcwndbps/908750/mh/98/mm/44/mn/sn-8vq54vox2u-v2vs/ms/lva/mv/m/mvi/3/pcm2cms/yes/pl/20/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/mt/1703972925/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRgIhAKeY3lhQYr8omTwTsPa1AHT2CUxH6aFTZ8XRU4qtBfGyAiEAkqLGzfa_tC1vh_I_fPTdyj5M9eyO82MvBTU1HzkTB-Q%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AAO5W4owRAIgHQGhkz4edvHbRhVG3joDGRSW6J88opasjrD9CVULmGACICJv6vPp_gbTGBkeFF41AUIpiHJ3uDkqZWubpUnn7tbH/playlist/index.m3u8
+#EXTINF:4,Times Square:
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1703995015/ei/J5KQZfqeHMS2mLAP5bSo-Ak/ip/77.54.27.119/id/4qyZLflp-sI.6/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-8vq54vox2u-v2vs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/initcwndbps/915000/mh/OR/mm/44/mn/sn-8vq54vox2u-v2vs/ms/lva/mv/m/mvi/3/pcm2cms/yes/pl/20/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/mt/1703973146/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIhANHiLHUhMAw8hElMIf4VLIN5o0aNrZHtlQkH1dm8oa3jAiAk6zGHJzLi8HeaFcD_khWq5vEIb30POk_Wh0mp0jDbKg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AAO5W4owRAIgEam9jKzQh37eXy8XXy6K8VS4sNUZd5sBREu7NXLlALICIDUT-XRpbyZ_AnYgMMMICSzte86KqzFWUcNBnjKY2jaJ/playlist/index.m3u8
+#EXTINF:5,【LIVE】渋谷・スクランブル交差点
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1703995214/ei/7pKQZfyXErmlvdIPhOy_8Ao/ip/77.54.27.119/id/Lfl2Nj_QRXU.1/itag/232/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr2---sn-8vq54vox2u-v2vl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/900/manifest_duration/900/vprv/1/playlist_type/DVR/initcwndbps/813750/mh/nn/mm/44/mn/sn-8vq54vox2u-v2vl/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/20/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/mt/1703973152/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIgOIyc3AyK56B-FZQa1QewwQcy_Z04on26lLy22ufBdbECIQCbUCiVfQD4MSW007rFg5sFjV7QyPAd7ghzyJ8yQIPBEA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AAO5W4owRgIhAPtAs57fHP1-Et8Ngm3CphPOySy3Wp9HyJ2ym_f5vcPTAiEAmHIhAN57VXgwvx3bEZvZUYNoieI1VDBHJpZ0YS-ZT0w%3D/playlist/index.m3u8
+#EXTINF:6,Times Square: 1540 Broadway View Live
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1703995404/ei/rJOQZeHJBKeEp-oPyMuE8Ak/ip/77.54.27.119/id/GSmCh4DrbWY.1/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-8vq54vox2u-v2vl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/initcwndbps/836250/mh/ZE/mm/44/mn/sn-8vq54vox2u-v2vl/ms/lva/mv/m/mvi/1/pl/20/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/mt/1703973392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRAIgVP4sVmxZgWdFOUCPDd6lNcW7EcBwBzW-Ll-ESpt9PuoCIFqpZXH9vXNJAJVcPEBO_40_YTnYrl0w_vc5M-k-TfXu/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRAIgQ4Mlb2n1OaJ59ijgEPo6_lL3E1XXlpTKXq6Umc4rDgACIEv9W4Ebdsm6B3ur7zeVWRKALwk2ZJn3pMbaCydyMzsl/playlist/index.m3u8
+#EXTINF:7,Bank of America Winter Village SkateCam
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1703995595/ei/a5SQZb_6JqGFp-oPuMyOCA/ip/77.54.27.119/id/ZNJg-IPeZms.1/itag/312/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr2---sn-8vq54vox2u-v2vl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/initcwndbps/903750/mh/0t/mm/44/mn/sn-8vq54vox2u-v2vl/ms/lva/mv/m/mvi/2/pl/20/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/mt/1703973633/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIgf-uO9EZmd1T4acIXbGuajDX1q7ipTLwr_UTxxb4cC4ECIQDAFmKkO-_TsAhoFD7RjO2VBtzM2ir3Qyksb5D-qMkKgg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRAIgBOyMNksVwxWd0-4_dn4vqWIBH4YGdjM8PruPDb2TQfkCIHmR6rWR9MChNsi9vXE7Hojn_XWCSKs099fymDEIB_fi/playlist/index.m3u8
+#EXTINF:8,Venice Beach Live Camera · Los Angeles 
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1703995707/ei/25SQZaPrM4iCp-oPgp6riAg/ip/77.54.27.119/id/3LXQWU67Ufk.1/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-8vq54vox2u-v2vl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/900/manifest_duration/900/vprv/1/playlist_type/DVR/initcwndbps/903750/mh/Tm/mm/44/mn/sn-8vq54vox2u-v2vl/ms/lva/mv/m/mvi/1/pl/20/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/mt/1703973633/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRgIhAKgPL2Eljwvl85p3se356z1l8OSK3Em9kbhkMyxFDUYkAiEApiE7C-FIexfDT2zLIyYdchimqDdFmnVNb3i_tgoBkz4%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRQIhAJNx0OKAhCpM0ersfdnAgpzHIKP5s070I7LIRUgNWg3vAiBgNOpeWbDJTAHS6bg0G9OsC4OCJQKVQE34ggJs6Qm5mA%3D%3D/playlist/index.m3u8
+#EXTINF:9,EarthCam - Dublin Cam
+https://videos-3.earthcam.com/fecnetwork/24322.flv/chunklist_w389025256.m3u8?t=qAP3aum0UbcBtTuO%2Fx%2F7Lz9UytxcCWnrPDJyjgaIxeqs11C62GdIjkfw%2FEqyovU%2F
+#EXTINF:10.Times Square Cams - EarthCam	
+https://videos-3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w1651194432.m3u8?t=vBci5OreTDT5OVZWlrH3hFWPpk6y83Y18ohQ4H190JOs%2FKtxspkY7x9vWqhbwUYx9toPyQyEYWA21%2FeLlebEfA%3D%3D
+#EXTINF:11.EarthCam - New Orleans Cam	
+https://videos-3.earthcam.com/fecnetwork/4280.flv/chunklist_w1341553406.m3u8?t=Z8SpBH92uYu3pHPoOMZ%2B9zmlj1I9el%2F0SgTs%2BxGjkmsZmslpxhI%2BaCf3P2BSi2fj
+#EXTINF:12.Câmera de Nova Orleans	
+https://videos-3.earthcam.com/fecnetwork/4282.flv/chunklist_w1319459028.m3u8?t=z96LKaYnWVQXaYYFAm8IpsH9JS%2BQlVEXBYPS02dZInHke8gqO58d8hW3OYJ2rWXI
+#EXTINF:13,ao Vivo Florianópolis - Barra da lagoa
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1703996545/ei/IZiQZbmWBIToxN8P8vGaGA/ip/77.54.27.119/id/LIMXarK87V8.1/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-8vq54vox2u-v2vs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/initcwndbps/898750/mh/Xb/mm/44/mn/sn-8vq54vox2u-v2vs/ms/lva/mv/m/mvi/3/pl/20/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/mt/1703974593/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRgIhAPJyhJX6Zz0h9C2uKXn7RxTNdN62BP5mMs4zI_K7iBs-AiEA9lTh2X0qUTmken0R2i1Bos0x25Aq6WX3j1dsarWsW18%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRAIgIY0deA9zs7C0ExF9J8eBfjIsn0Iwwhkvk8HoMQ7TndICIFSNFTA4WLdjFvQGcvbcJ4xvW0Vl4XJY-sDpL6TDilOI/playlist/index.m3u8
+#EXTINF:14,avó 	
+https://cdn77-vid.xnxx-cdn.com/nqFwH8JG9cHJWYzsU5Cztw==,1703986135/videos/hls/df/83/bd/df83bd6f12d16ac4e7d5a2f98bbf1a76-1/hls-360p-2956c.m3u8
+#EXTINF:15,casal velhos	
+https://cdn77-vid.xnxx-cdn.com/EuKOwvj1SVmmawRYWCNnfA==,1703986230/videos/hls/c2/b0/49/c2b049eec8aa65463866a4524d32cb2e/hls-360p-f39a2.m3u8
+#EXTINF:16,transe	
+https://cdn77-vid.xnxx-cdn.com/oq5me3Rokp8XgC2OuJKcpg==,1703986350/videos/hls/94/2f/ce/942fce40ab994a5459ee58850d5e63d3/hls-360p.m3u8
+#EXTINF:17,transe 32
+https://ev-h.phncdn.com/hls/videos/202211/08/419096341/,1080P_4000K,720P_4000K,480P_2000K,240P_1000K,_419096341.mp4.urlset/index-f1-v1-a1.m3u8?validfrom=1703972122&validto=1703979322&ipa=77.54.27.119&hdl=-1&hash=luCiCMrSVhKEBzFNPX%2BqaBWecwo%3D
+#EXTINF:18,transexuais 2	
+https://cv-h.phncdn.com/hls/videos/202307/06/434940411/,1080P_4000K,720P_4000K,480P_2000K,240P_1000K,_434940411.mp4.urlset/index-f1-v1-a1.m3u8?JO1550sYByQAEmNuPPjf-2twaCVK9-G-7jmie6ZjhhUcM5peyvQ9zU838sJwwTnGV544j2qojEuYWm57t32WtEaKAkugOcZ3T-gcPDl9VZWyrcrriEhFGeGUnUDpF6sFsnTTMLOe6bQAZ3pJTTowVAdFjMlgNG1pIz4DpzxYtJrDiODGd0lDZqiF6vzzETiLHKIbDwJc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
